@@ -1,0 +1,47 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-image: url(/bla.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    margin-top: 40px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h1{
+    color: goldenrod;
+    font-size: 80px;
+    text-align: center;
+}
+p{
+    font-size: 40px;
+    text-align: center;
+    padding: 5px 25px;
+    line-height: 70px;
+    color: white;
+    font-weight: 100px;
+}
+.btn{
+    text-align: center;
+}
+button{
+    color: #016f32;
+    background: goldenrod;
+    padding: 15px 80px;
+    text-align: center;
+    margin-top: 10px;
+    border: 1px solid goldenrod;
+    font-weight: bold;
+    font-size: 30px;
+    border-radius: 3px;
+    border: none;
+}
+#greetings{
+    transition: 5s;
+    color: white;
+    font-size: 30px;
+}
+
